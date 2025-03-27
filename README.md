@@ -1,19 +1,22 @@
-## 👋 Hi, I’m Anna
+## 👋 Hi! I’m Anna
 
-I'm a **Business and Data Analyst** with over 3 years of experience, based in **Basel, Switzerland**. I help companies **simplify processes** to save **time and money**.
-
-I studied **linguistics and public relations** in **Poland and Italy**, building a strong foundation in communication and business.  
-My career path has taken me from **communications in Poland**, through **supply chain and finance in Germany**, to **biotech and medtech in Switzerland** since 2022.
-
-One of my proudest achievements?  
-💡 I helped a biotech startup **save over 135,000 CHF per year** by creating a smarter procurement process and renegotiating vendor contracts — a turning point that deepened my passion for analytics.
+A **business and data analyst** with over **3 years of experience**, based in **Basel, Switzerland**.  
+I help companies **simplify processes** to save **time and money**.
 
 ---
 
-### 🔗 What connects it all?
+I studied **linguistics and public relations** in **Poland and Italy**, and gained solid expertise in **communication and business**.  
+My experience ranges from **communication in Poland**, through **supply chain and finance in Germany**, to **biotech and medtech in Switzerland** since 2022.
 
-My ability to **understand data** and use it to craft **personalized business strategies**.  
-Right now, I’m working on projects involving **data analysis, visualization**, and **AI** to fight **mis- and disinformation** and support better decision-making.
+💡 I saved **over 135k CHF per year** for a biotech startup by setting up a smarter procurement process and renegotiating vendor contracts.  
+This win inspired me to go deeper into **analytics**.
+
+---
+
+### 🔗 What links it all together?
+
+My ability to **understand data** and use it for **personalized business strategies**.  
+Right now, I’m working on projects using **data analysis**, **visualisation**, and **AI** to fight **mis- and disinformation**.
 
 ---
 
