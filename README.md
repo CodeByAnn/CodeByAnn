@@ -4,7 +4,7 @@ A business and data analyst with over 3 years of experience, based in Basel, Swi
 
 ---
 
-I studied linguistics and public relations in Poland and Italy, and gained solid expertise in communication and business.  
+I studied linguistics and public relations in Poland and Italy, and gained solid expertise in digital marketing and business.  
 My experience ranges from communication in Poland, through supply chain and finance in Germany, to biotech and medtech in Switzerland since 2022.
 
 💰 I **saved over 135k CHF per year** for a biotech startup by setting up a smarter procurement process and renegotiating vendor contracts. This win inspired me to go deeper into analytics.
