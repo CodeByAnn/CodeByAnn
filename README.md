@@ -20,4 +20,4 @@ My ability to understand data and use it for personalized business strategies. R
 
 - 📧 [Email me](mailto:info@annakudyba.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/∴-anna-k-23a901111)  
-- 🌐 [Portfolio](https://www.notion.so/My-portfolio-14684102756280f082c8e48b4cd505b7)
+- 🌐 [Portfolio](https://annakudyba.com/portfolio)
