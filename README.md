@@ -1,6 +1,6 @@
 ## 👋 Hi! I’m Anna
 
-A business and data analyst with over 3 years of experience, based in Basel, Switzerland. I help companies simplify processes to save time and money.
+A business and data analyst with over 10 years of experience, based in Basel, Switzerland. I help companies simplify processes to save time and money.
 
 ---
 
