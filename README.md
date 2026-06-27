@@ -5,7 +5,9 @@ A business and data analyst with over 10 years of experience, based in Basel, Sw
 ---
 
 𝐂𝐨𝐮𝐧𝐭𝐫𝐢𝐞𝐬 𝐥𝐢𝐯𝐞𝐝 𝐢𝐧: Poland, Canada, Italy, Germany and Switzerland
+
 𝐁𝐚𝐜𝐤𝐠𝐫𝐨𝐮𝐧𝐝: branding, business analytics and data science
+
 𝐈𝐧𝐝𝐮𝐬𝐭𝐫𝐢𝐞𝐬: digital marketing, e-commerce, supply chain, finance, operations, biotech, medtech and big pharma
 
 💰 I **saved over 135k CHF per year** for a biotech startup by setting up a smarter procurement process and renegotiating vendor contracts. This win inspired me to go deeper into analytics and I'm now deepening my expertise by studying data engineering.
